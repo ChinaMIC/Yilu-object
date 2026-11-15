@@ -2,6 +2,8 @@
 defineProps<{
   msg: string
 }>()
+
+let a = 123;
 </script>
 
 <template>
